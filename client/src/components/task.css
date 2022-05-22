@@ -1,0 +1,14 @@
+#task-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f5f5f5;
+  margin: 10px 30px;
+  padding: 10px;
+  border-radius: 5px;
+  margin-top: 5px;
+}
+
+.task-status {
+  font-size: 12px;
+}
